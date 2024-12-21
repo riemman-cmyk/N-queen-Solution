@@ -1,4 +1,4 @@
-# N-queen-Solution
+//N-queen-Solution
 namespace Nika
 {
    internal class Program
